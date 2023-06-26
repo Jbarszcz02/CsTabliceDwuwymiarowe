@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\bin\Debug\net6.0\Zadanie 1.exe
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\bin\Debug\net6.0\Zadanie 1.deps.json
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\bin\Debug\net6.0\Zadanie 1.runtimeconfig.json
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\bin\Debug\net6.0\Zadanie 1.dll
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\bin\Debug\net6.0\Zadanie 1.pdb
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.AssemblyInfo.cs
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.dll
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\refint\Zadanie 1.dll
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.pdb
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\Zadanie 1.genruntimeconfig.cache
+C:\Users\USER\Documents\studia\programowanie\tablice dwuwymiarowe\Zadanie 1\Zadanie 1\obj\Debug\net6.0\ref\Zadanie 1.dll
